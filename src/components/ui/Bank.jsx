@@ -296,7 +296,7 @@ export const BankView = ({ user, onUpdateUser }) => {
               borderRadius: '8px',
               textAlign: 'center'
             }}>
-              💳 TEST MODE: Payments auto-complete (no real money)
+              💳 Withdrawals are only made from MONDAYS to FRIDAYS.
             </div>
           )}
 
