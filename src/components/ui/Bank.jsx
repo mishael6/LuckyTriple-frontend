@@ -287,6 +287,7 @@ export const BankView = ({ user, onUpdateUser }) => {
           </button>
 
           {action === 'deposit' && (
+<<<<<<< HEAD
             <div className="bank-info" style={{
               padding: 'clamp(8px, 2.5vw, 10px)',
               marginTop: '12px',
@@ -297,6 +298,10 @@ export const BankView = ({ user, onUpdateUser }) => {
               textAlign: 'center'
             }}>
               💳 Withdrawals are only made from MONDAYS to FRIDAYS.
+=======
+            <div className="bank-info">
+              💳 Withdrawals are only approved from MONDAYS to FRIDAYS.
+>>>>>>> 7c0f08790a6de25180f80ca952eb7bca8071d187
             </div>
           )}
 

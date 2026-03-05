@@ -109,7 +109,11 @@ export const AuthPage = ({ onLogin }) => {
         </form>
 
         <div className="demo-hint">
+<<<<<<< HEAD
           Guess three numbers from 1 - 9, every guess wins!
+=======
+          Guess three numbers from 1 - 9 and win, all quess wins!
+>>>>>>> 7c0f08790a6de25180f80ca952eb7bca8071d187
         </div>
       </motion.div>
     </div>
