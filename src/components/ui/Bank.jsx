@@ -310,7 +310,7 @@ export const BankView = ({ user, onUpdateUser }) => {
               borderRadius: '8px',
               textAlign: 'center'
             }}>
-              ⏳ Withdrawals require admin approval. Only MONDAY - FRIDAY.
+              ⏳ 24/7 withdrawal processing.
             </div>
           )}
         </div>
